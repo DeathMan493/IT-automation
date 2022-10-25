@@ -1,2 +1,2 @@
 # IT-automation
-project for google it automation course
+Project for google it automation course
